@@ -1,0 +1,82 @@
+.desktop-only {
+    display: none;
+}
+
+header {
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+#navi-logo img {
+    margin-left: 1em;
+}
+
+h1 {
+    font-size: 3em;
+    line-height: 1.1em;
+    margin-bottom: 1.1em;
+}
+
+#intro {
+    height: 20em;
+    padding: 1.5em;
+}
+
+#intro div {
+    display: flex;
+    flex-direction: column;
+}
+
+#industry {
+    padding: 0 1.5em 1.5em 1.5em;
+}
+
+#industry h2 {
+    font-size: 1.25em;
+    margin-bottom: 1em;
+    text-align: left;
+}
+
+#industry h4 {
+    margin: 2em 0 1.5em 0;
+    text-align: left;
+}
+
+#industry-icons img {
+    height: auto;
+    width: 3.5em;
+}
+
+#industry-icons p {
+    font-size: 0.5em;
+}
+
+#testimonial {
+    padding: 1.5em;
+}
+
+#testimonial p {
+    font-size: 1.35em;
+    line-height: 1.5em;
+}
+
+#offer {
+    padding: 0em 1.5em 1em 1.5em;
+    text-align: left;
+}
+
+#offer p:nth-child(1) {
+    font-size: 2em;
+}
+
+#offer p:nth-child(2) {
+    font-size: 1em;
+}
+
+#offer p:nth-child(3) {
+    font-size: 1.25em;
+}
+
+#footer-columns {
+    padding: 0 1.5em 0 1.5em;
+}
